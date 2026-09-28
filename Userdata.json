@@ -35,4 +35,10 @@
         "expirydate": "17-10-2026",
         "Allowoffline": false
       },
+       {
+       "device_id": "91428ab7e6f5ff1d",
+        "key": "sby1122",
+        "expirydate": "24-10-2026",
+        "Allowoffline": false
+      },
 ]
