@@ -23,4 +23,10 @@
         "expirydate": "27-10-2026",
         "Allowoffline": false
       },
+      {
+       "device_id": "1d0254f32bdea256",
+        "key": "key1927",
+        "expirydate": "12-10-2026",
+        "Allowoffline": false
+      },
 ]
