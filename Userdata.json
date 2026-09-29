@@ -65,4 +65,10 @@
         "expirydate": "30-09-2026",
         "Allowoffline": false
       },
+      {
+       "device_id": "d2ea612c1289b886",
+        "key": "sby1111",
+        "expirydate": "30-10-2026",
+        "Allowoffline": false
+      },
 ]
