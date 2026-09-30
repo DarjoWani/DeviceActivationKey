@@ -77,4 +77,10 @@
         "expirydate": "07-10-2026",
         "Allowoffline": false
       },
+      {
+       "device_id": "5c66f37e0dca9c2b",
+        "key": "sda2222",
+        "expirydate": "30-10-2026",
+        "Allowoffline": false
+      },
 ]
