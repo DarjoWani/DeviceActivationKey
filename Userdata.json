@@ -5,12 +5,6 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
-     {
-        "device_id": "498f25623d4f353e",
-        "key": "sby3333",
-        "expirydate": "15-10-2026",
-        "Allowoffline": false
-      },
        {
         "device_id": "53c139c78679dbf9",
         "key": "saya123",
@@ -87,6 +81,12 @@
        "device_id": "05389aef10d8c2bc",
         "key": "sby2222",
         "expirydate": "30-10-2026",
+        "Allowoffline": false
+      },   
+      {
+        "device_id": "498f25623d4f353e",
+        "key": "sby3333",
+        "expirydate": "15-10-2026",
         "Allowoffline": false
       },
 ]
