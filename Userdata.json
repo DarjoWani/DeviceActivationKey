@@ -77,4 +77,10 @@
         "expirydate": "15-10-2026",
         "Allowoffline": false
       },
+      {
+        "device_id": "6c8b687307c9cf09",
+        "key": "sby4444",
+        "expirydate": "20-10-2026",
+        "Allowoffline": false
+      },
 ]
