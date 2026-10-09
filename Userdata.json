@@ -137,4 +137,10 @@
         "expirydate": "21-10-2026",
         "Allowoffline": false
       },
+      {
+        "device_id": "e995a2a5c6eb5582",
+        "key": "sby9999",
+        "expirydate": "09-11-2026",
+        "Allowoffline": false
+      },
 ]
