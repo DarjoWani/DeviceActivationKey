@@ -131,4 +131,10 @@
         "expirydate": "21-10-2026",
         "Allowoffline": false
       },
+      {
+        "device_id": "f6bc86cd0b6c488d",
+        "key": "jis1111",
+        "expirydate": "21-10-2026",
+        "Allowoffline": false
+      },
 ]
