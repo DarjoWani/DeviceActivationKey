@@ -149,5 +149,11 @@
         "expirydate": "30-10-2026",
         "Allowoffline": false
        },
+       {
+        "device_id": "8e6548ecf2ea4a35",
+        "key": "sda3333",
+        "expirydate": "19-10-2026",
+        "Allowoffline": false
+       },
     
 ]
