@@ -155,5 +155,12 @@
         "expirydate": "19-10-2026",
         "Allowoffline": false
        },
+       {
+        "device_id": "55240b80d07217cb",
+        "key": "sda4444",
+        "expirydate": "11-11-2026",
+        "Allowoffline": false
+       },
+       
     
 ]
