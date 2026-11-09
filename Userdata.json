@@ -6,15 +6,9 @@
         "Allowoffline": true
     },
        {
-       "device_id": "158d6d4489751c00",
-        "key": "aini1122",
-        "expirydate": "27-10-2026",
-        "Allowoffline": false
-      },
-       {
-       "device_id": "91428ab7e6f5ff1d",
-        "key": "sby1122",
-        "expirydate": "24-10-2026",
+       "device_id": "1dd246053e2eb2dc",
+        "key": "saya1122",
+        "expirydate": "27-11-2026",
         "Allowoffline": false
       },
        {
@@ -30,39 +24,15 @@
         "Allowoffline": false
       },
       {
-       "device_id": "d2ea612c1289b886",
-        "key": "sby1111",
-        "expirydate": "30-10-2026",
-        "Allowoffline": false
-      },
-      {
-       "device_id": "d0c327c0ece216e9",
-        "key": "sda1111",
-        "expirydate": "07-11-2026",
-        "Allowoffline": false
-      },
-      {
        "device_id": "1d194d4f3b78e421",
         "key": "sda2222",
         "expirydate": "30-11-2026",
         "Allowoffline": false
       },
       {
-       "device_id": "05389aef10d8c2bc",
-        "key": "sby2222",
-        "expirydate": "30-10-2026",
-        "Allowoffline": false
-      },   
-      {
         "device_id": "6c8b687307c9cf09",
         "key": "sby4444",
         "expirydate": "20-11-2026",
-        "Allowoffline": false
-      },
-      {
-        "device_id": "f52a6d03cc239028",
-        "key": "sby5555",
-        "expirydate": "05-11-2026",
         "Allowoffline": false
       },
       {
@@ -83,42 +53,6 @@
         "expirydate": "20-11-2026",
         "Allowoffline": false
       },
-      {
-        "device_id": "3422d4243d5f3c38",
-        "key": "sby2233",
-        "expirydate": "07-11-2026",
-        "Allowoffline": false
-      },
-      {
-        "device_id": "3a5169f4261a3587",
-        "key": "wani1927",
-        "expirydate": "05-11-2026",
-        "Allowoffline": false
-      },
-      {
-        "device_id": "0401c4d2dc23541e",
-        "key": "sda2111",
-        "expirydate": "05-11-2026",
-        "Allowoffline": false
-      },
-      {
-        "device_id": "e4b70e88bf753e63",
-        "key": "yes1111",
-        "expirydate": "10-11-2026",
-        "Allowoffline": false
-       },
-       {
-        "device_id": "ca333c36343aa8d0",
-        "key": "yes2222",
-        "expirydate": "30-10-2026",
-        "Allowoffline": false
-       },
-       {
-        "device_id": "8e6548ecf2ea4a35",
-        "key": "sda3333",
-        "expirydate": "19-10-2026",
-        "Allowoffline": false
-       },
        {
         "device_id": "55240b80d07217cb",
         "key": "sda4444",
